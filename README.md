@@ -55,14 +55,14 @@ This is a game built using 'iGraphics' where the player is trapped in a haunted 
  
 
 
- <img src="DEMO_IMAGES/2.png">
+ <img src="DEMO_IMAGES/3.png">
 
  </div>
  
  <div> 
  <h1>      </h1>
 
- <img src="DEMO_IMAGES/3.png">
+ <img src="DEMO_IMAGES/2.png">
 
  </div>
 
@@ -83,5 +83,5 @@ This is a game built using 'iGraphics' where the player is trapped in a haunted 
 
 
  ## Setup
-XAMPP server should be set up locally. Then using 'phpMyAdmin' a database named 'projectf' should be created from there the 'project.sql' file should be imported. The whole project folder should be copied to the 'htdocs' folder of the XAMPP installation directory. After that in the web browser 'http://localhost/Football Buzz/filename.php' should be typed to access any page according to the file name.
+'ESCAPE THE HOUSE.exe' file should be opened to play the game.
 
