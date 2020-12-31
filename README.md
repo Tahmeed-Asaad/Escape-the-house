@@ -83,5 +83,5 @@ This is a game built using 'iGraphics' where the player is trapped in a haunted 
 
 
  ## Setup
-'ESCAPE THE HOUSE.exe' file should be opened to play the game.
+'ESCAPE THE HOUSE.exe' file should be opened to play the game. Press 'R' to shoot and left-right directional keys to move.
 
